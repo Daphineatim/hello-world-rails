@@ -28,7 +28,7 @@ Things you may want to cover:
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails React <a name="about-the-project"></a>
+# 📖 Hello World Rails <a name="about-the-project"></a>
 **Hello Rails React** is an implemention of a connection between Ruby on Rails back-end and React front-end by displaying a random greeting message.
 
 ## 🛠 Built With <a name="built-with"></a>
